@@ -3,7 +3,7 @@
 Conway Game of Life done in React js. See [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) for more details on Conway's Game of Life.
 
 ### Demo
-Click this [Node.js](https://nodejs.org/) to see the code in action.
+Click [demo](https://game-of-life-conway.herokuapp.com/) to see the code in action.
 
 ### Installation
 
@@ -19,7 +19,8 @@ $ npm start
 For production environments...
 
 ```sh
-$ npm install --production
+$ cd react-conway-game-of-life
+$ npm install --silent
 $ npm run build
 ```
 
